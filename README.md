@@ -1,1 +1,1 @@
-# hydrologycal-monitoring
+# hydrological-monitoring-system
