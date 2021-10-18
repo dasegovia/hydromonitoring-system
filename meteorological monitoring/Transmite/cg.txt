@@ -1,0 +1,9 @@
+[
+    {
+    
+            "cg": 1,
+            "samplingtime": "10min.txt",
+            "Statusamplingtime": "48",
+	    "nsim": "XXXX"
+    }
+]

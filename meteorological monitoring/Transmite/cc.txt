@@ -1,0 +1,15 @@
+[
+    {
+    
+            "cc": 1,
+            "sufijo": "x",
+            "capikey": "x",
+            "apikey": "x",
+	    "devicename": "x",
+            "devicelog": "x",
+            "url_streams": "x",
+            "url_status": "x",
+            "url_cc": "x",
+            "url_cg": "x"
+    }
+]

@@ -1,0 +1,8 @@
+#encendio de la raspberry cada cierto tiempo
+#se enciende durante 2 minutos y se apaga 8 minutos
+
+BEGIN   2019-03-15 00:00:00
+END     2025-07-31 23:59:59
+ON      M2         # stay at ON state and wait for external shutdown
+OFF     M18         # keep OFF state until next hour comes
+

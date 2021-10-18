@@ -1,0 +1,20 @@
+/ cc configuration file allows to  modify some web platform connection parameters remotely. 
+
+//replace the "x" in the original cc file with the necesary data to connect to the web platform, in this case you can see an example to connect to the altairsmartcore platform. 
+https://www.altairsmartworks.com/developers/documentation/api/rest_api_headers
+
+[
+    {
+    
+            "cc": 1,
+            "sufijo": "@smartcore",  
+            "capikey": "Apikey",
+            "apikey": "b872cdf567",
+	    "devicename": "sta1",
+            "devicelog": "device_log",
+            "url_streams": "api.altairsmartcore.com/streams",
+            "url_status": "api.altairsmartcore.com/status",
+            "url_cc": "https://api.altairsmartcore.com/devices/sta1@smartcore/deviceconfigs/cc/",
+            "url_cg": "https://api.altairsmartcore.com/devices/sta1@smartcore/deviceconfigs/cg/"
+    }
+]

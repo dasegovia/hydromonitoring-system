@@ -1,0 +1,11 @@
+// cg configuration file allows to  modify some operating parameters remotely. 
+[
+    {
+    
+            "cg": 1,
+            "samplingtime": "10min.txt", //It allows to change the sampling time, change the "10min.txt", for another samplingtime file. There are available: "5min.txt", "10min.txt","15min.txt","20min.txt","30min.txt" and "60min.txt"
+            "Statusamplingtime": "48", //It allows to stablish the Status frame sampling time. The "48" means that every 48 data frames, we will send a status frame.
+	    "simcard": "XXXXX"  // replace the "XXXXX" with the sim card identifier.
+    }
+]
+
